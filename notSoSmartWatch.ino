@@ -161,8 +161,18 @@ void sleepNow() {
   
 }
 
+//GITHUB REMINDER
 //
-//
+//git pull
+//git add --all
+//git commit -m "put some menssage here"
+//git push -u origin master
+
+
+
+
+
+
 //void DrawText(float tam, int content) {
 //  display.setTextSize(tam);
 //  display.setTextColor(WHITE);
